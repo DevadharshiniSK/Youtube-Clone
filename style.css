@@ -134,6 +134,7 @@ body{
 }
 .filter-options.active{
     color: fff;
+
     background: #a39d9d;
 }
 .filters::-webkit-scrollbar{
